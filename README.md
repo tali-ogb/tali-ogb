@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Talita Rocha
+- 👋 Hi, I’m Talita Nunes Rocha
 - 👀 I’m interested in technology, vollehball and beer
 - 🌱 I’m currently learning Pyhton 
 - 💞️ I’m looking to collaborate on new projects 
